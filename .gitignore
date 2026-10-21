@@ -1,0 +1,4 @@
+# Ignorar material con derechos de autor de la editorial
+material_original/
+*.pdf
+.git/
