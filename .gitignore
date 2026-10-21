@@ -1,4 +1,5 @@
-# Ignorar material con derechos de autor de la editorial
-material_original/
-*.pdf
-.git/
+# Gitignore
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
